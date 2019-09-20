@@ -13,19 +13,19 @@ body{
 }
 .btn{
     display: inline-block;
-    width: 90px;
-    height: 90px;
+    width: 120px;
+    height: 120px;
     background: #f1f1f1;
     margin: 10px;
     border-radius: 70%;
-    box-shadow: 0 5px 15px -5px #00000070;
-    color: #3498db;
+    box-shadow: 0px 5px 15px -5px #00000070;
+    color: #049aff;
     overflow: hidden;
     position: relative;
 }
 .btn i {
-    line-height: 90px;
-    font: 26px;
+    line-height: 120px;
+    font-size: 26px;
     transition: 0.2s linear;
 }
 .btn:hover i {
@@ -37,7 +37,7 @@ body{
     position: absolute;
     width: 120%;
     height: 120%;
-    background: #3498db;
+    background: #000000;
     transform: rotate(45deg);
     left: -110%;
     top: 90%;
