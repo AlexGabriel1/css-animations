@@ -18,18 +18,18 @@ body{
     margin: 40px;
     border-radius: 50%;
     position: relative;
-    overflow: hidden;
+    
   }
   
   .ball{
     width: 40px;
     height: 40px;
-    background: #000;
+    background: rgb(28, 81, 255);
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%);
     border-radius: 50%;
-    border: 15px solid #333;
+    border: 15px solid rgb(10, 0, 0);
   }
   
